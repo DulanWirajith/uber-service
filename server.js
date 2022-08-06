@@ -24,6 +24,6 @@ app.get("/", function (req, res) {
 ioConnect.Realtimeupdate();
 ioconnect2.setAvailability();
 
-http.listen(7000, function () {
+http.listen(4000, function () {
   console.log("listen on port 4000");
 });
