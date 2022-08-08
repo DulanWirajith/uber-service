@@ -25,5 +25,5 @@ ioConnect.Realtimeupdate();
 ioconnect2.setAvailability();
 
 http.listen(4040, function () {
-  console.log("listen on port 4000");
+  console.log("listen on port 4040");
 });
